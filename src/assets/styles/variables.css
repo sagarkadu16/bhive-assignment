@@ -1,0 +1,18 @@
+:root {
+  --heading-1: 58px;
+  --heading-2: 36px;
+  --heading-3: 24px;
+  --heading-4: 20px;
+  --heading-5: 18px;
+  --heading-6: 16px;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("./../fonts/Inter_18pt-Regular.ttf") format("truetype");
+  font-style: normal;
+}
+
+body {
+  font-family: "Inter";
+}
